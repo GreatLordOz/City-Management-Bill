@@ -9,7 +9,7 @@ The Plot Manager shall be defined as a citizen(s) chosen by a 2/3 vote of the Ex
 
 For the purpose of this bill, a new friend shall be defined as any player that has joined the server for the first time and has not played a civ server previously.
 
-#### Plot Manager's Powers
+### Plot Manager's Powers
 
 ##### Plot Boundaries
 
