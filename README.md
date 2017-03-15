@@ -3,7 +3,7 @@ Rights for the Plot Manager, Purchase of Plots and Plot Ownership in Aquila
 
 ### Plot Manager
 
-The Plot Manager shall be defined as a citizen(s) chosen by a 2/3 vote of the Executive Council who has the power to determine new plot boundaries, give new friends plots and derelict houses within Aquila. The Plot Manager can be replaced following their resignation or impeachment by a 2/3 vote of the Executive Council. 
+The Plot Manager shall be defined as a citizen(s) chosen by a 2/3 vote of the Executive Council who has the power to determine new plot boundaries, give players plots and derelict houses within Aquila. The Plot Manager can be replaced following their resignation or impeachment by a 2/3 vote of the Executive Council. 
 
 ##### New Friend
 
@@ -13,9 +13,9 @@ For the purpose of this bill, a new friend shall be defined as any player that h
 
 ##### Plot Boundaries
 
-The plot manager shall be given the right to designate new plot boundaries within specified areas, as determine by the Executive Council. Plots may not contain more than 200 blocks squared in total within and including their set boundaries. Should the Executive Council find a problem with a plot's boundaries, they can adjust them accordingly. 
+The plot manager shall be given the right to designate new plot boundaries within specified areas, as determine by the Executive Council. Plots may not contain more than 200 square meters within and including their set boundaries. Should the Executive Council find a problem with a plot's boundaries, they can adjust them accordingly. 
 
-##### New Friend Plot Deligation
+##### Plot Deligation
 
 Upon spawning in Aquila, it is required that this new friend complete the tutorials located in the Aquila Tutorial Center. Upon completion, the Plot Manager, or Executive Council member can designate a new plot for the new friend. Additionally, Citizens may give plots to new friends that have completed the tutorial center if the boundaries of a plot have already been determined by the Executive Council or Plot Manager. For interested residents who spawned outside of Aquila, they are encouraged to first complete the tutorial center, but it is not mandatory. 
 
@@ -27,8 +27,8 @@ The plot manager will have the power to derelict property within city walls in A
 
 ##### Unclaimed Plots
 
-Citizens in Aquila may purchase a new plot in the city if their first plot is completed and is aethetically well built. The Plot Manager has the power to negotiate a price for purchase with the interested citizen but must first request final approval to sell the plot from the Executive Council. Citizens may purchase a secondary plot totaling no more than 200 blocks squared within and including its boundaries. Citizens may also purchase a "Scenary" plot, which should total no more than 64 blocks squared within and including its boundaries. This Scenary plot should not be used as an extention to any existing plot. It should be used for greenery or a small structure to liven the area up. 
+Citizens in Aquila may purchase a new plot in the city if their first plot is completed and is aethetically well built. The Plot Manager has the power to negotiate a price for purchase with the interested citizen but must first request final approval to sell the plot from the Executive Council. Citizens may purchase a secondary plot totaling no more than 200 square meters within and including its boundaries. Citizens may also purchase a "Scenary" plot, which should total no more than 64 square meters within and including its boundaries. This Scenary plot should not be used as an extention to any existing plot. It should be used for greenery or a small structure to liven the area up. 
 
 ##### Purchase Of A Resident/Citizen Plot
 
-Citizens who work out an agreement with another citizen/resident to purchase a section or entirety of the plot may do so if the Citizen purchasing does not own a Secondary plot already. This Secondary plot must follow the boundary guidelines stated above. The purchased plot may not count as a Scenary plot if it is part of a house or is larger than the above stated measurements. If a Citizen is renting out space in another citizen/resident's plot and that plot should be named derelict, the government does not have to pay compensation to the renter as the owner of the plot is the resident/citizen renting it. 
+Citizens who wish to purchase a section or entirety of a plot from another citizen/resident may do so if the Citizen purchasing does not own a Secondary plot or Scenary plot. This Secondary plot must follow the boundary guidelines stated above. The purchased plot may not count as a Scenary plot if it is part of a house or is larger than the above stated measurements. If a Citizen is renting out space in another citizen/resident's plot and that plot should be named derelict, the government does not have to pay compensation to the renter as the owner of the plot is the rcitizen/resident renting it. 
