@@ -13,7 +13,7 @@ For the purpose of this bill, a new friend shall be defined as any player that h
 
 ##### Plot Boundaries
 
-The plot manager shall be given the right to designate new plot boundaries within specified areas, as determine by the Executive Council. Plots may not contain more than 200 blocks, on the same y-level as the nearest street, in total within and including their set boundaries. Should the Executive Council find a problem with a plot's boundaries, they can adjust them accordingly. 
+The plot manager shall be given the right to designate new plot boundaries within specified areas, as determine by the Executive Council. Plots may not contain more than 200 blocks squared in total within and including their set boundaries. Should the Executive Council find a problem with a plot's boundaries, they can adjust them accordingly. 
 
 ##### New Friend Plot Deligation
 
@@ -27,7 +27,7 @@ The plot manager will have the power to derelict property within city walls in A
 
 ##### Unclaimed Plots
 
-Citizens in Aquila may purchase a new plot in the city if their first plot is completed and is aethetically well built. The Plot Manager has the power to negotiate a price for purchase with the interested citizen but must first request final approval to sell the plot from the Executive Council. Citizens may purchase a secondary plot totaling no more than 200 blocks within and including its boundaries measured from the y-level of the nearest road. Citizens may also purchase a "Scenary" plot, which should total no more than 64 blocks within and including its boundaries. This Scenary plot should not be used as an extention to any existing plot. It should be used for greenery or a small structure to liven the area up. 
+Citizens in Aquila may purchase a new plot in the city if their first plot is completed and is aethetically well built. The Plot Manager has the power to negotiate a price for purchase with the interested citizen but must first request final approval to sell the plot from the Executive Council. Citizens may purchase a secondary plot totaling no more than 200 blocks squared within and including its boundaries. Citizens may also purchase a "Scenary" plot, which should total no more than 64 blocks squared within and including its boundaries. This Scenary plot should not be used as an extention to any existing plot. It should be used for greenery or a small structure to liven the area up. 
 
 ##### Purchase Of A Resident/Citizen Plot
 
