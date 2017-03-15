@@ -21,7 +21,7 @@ Upon spawning in Aquila, it is required that this new friend complete the tutori
 
 ##### Derelecting Property
 
-The plot manager will have the power to derelict property within city walls in Aquila. The plot manager must first give a warning message for dereliction in discord, pinging the affected resident/citizen if applicable. A sign must be placed on the plot stating the reason for dereliction and a proposed date at least two weeks in the future before removal takes place. Upon removal of a derelect property, the derelect player's house and all blocks and chested valuables inside of it should be stored in a seperate location as determined by the Executive Council. The Executive Council shall decide if that player's goods can be given back to the player upon return in the future or claimed by the government after a reasonable amount of time. 
+The plot manager will have the power to derelict property within city walls in Aquila. The plot manager must first give a warning message for dereliction in discord, pinging the affected resident/citizen if applicable. A sign must be placed on the plot stating the reason for dereliction and a proposed date at least two weeks in the future before removal takes place. Upon removal of a derelect property, the derelect player's house and all blocks and chested valuables inside of it should be stored in a seperate location as determined by the Executive Council. Failure to store a derelected player's goods will be considered major or minor theft as outlined by the Criminal Code. The Executive Council shall decide if that player's goods can be given back to the player upon return in the future or claimed by the government after a reasonable amount of time. 
 
 ### Purchase Of Plots
 
