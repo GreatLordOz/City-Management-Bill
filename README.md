@@ -15,7 +15,7 @@ For the purpose of this bill, a new friend shall be defined as any player that h
 
 The plot manager shall be given the right to designate new plot boundaries within specified areas, as determined by any Executive Councilor. Plots may not contain more than 200 square meters within and including their set boundaries. Should any Executive Councilor find a problem with a plot's boundaries, they can adjust them accordingly. 
 
-##### Plot Deligation
+##### Plot Delegation
 
 Upon spawning in Aquila, it is required that this new friend complete the tutorials located in the Aquila Tutorial Center. Upon completion, the Plot Manager, or Executive Councilor can designate a new plot for the new friend. Additionally, Citizens may give plots to new friends that have completed the tutorial center if the boundaries of a plot have already been determined by any Executive Councilor or Plot Manager. For interested residents who spawned outside of Aquila, they are encouraged to first complete the tutorial center, but it is not mandatory. 
 
